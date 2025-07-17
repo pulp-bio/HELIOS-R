@@ -1,0 +1,15 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=ld_pulser\ld_pulser.PrjPcb
+[Project2]
+ProjectPath=ld_harness\ld_harness.PrjPcb
+[Project3]
+ProjectPath=ld_monitoring_decoupling\ld_monitoring_decoupling.PrjPcb
+[Project4]
+ProjectPath=ld_system_control\ld_system_control.PrjPcb
+[Project5]
+ProjectPath=ld_pulser_testboard\ld_pulser_testboard.PrjPcb
+[Project6]
+ProjectPath=ld_harness\hardware\multiboard_assembly\MultiBoard_Project\MultiBoard_Project.PrjMbd
+

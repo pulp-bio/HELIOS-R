@@ -145,7 +145,6 @@ The system can operate with a Laser diode supply voltage of up to 24V. It is rec
 This is an open hardware project. Contributions are welcome in the form of:
 
 - Design improvements and optimizations
-- Additional test cases and validation procedures
 - Documentation enhancements
 - Bug reports and fixes
 
@@ -158,13 +157,18 @@ This project is released the Solderpad v0.51 open hardware license. See individu
 
 ## Authors and Acknowledgments
 
-The HELIOS-R PCB System was developed by the IIS laboratory at ETH Zurich by:
+The HELIOS-R PCB System was developed by the IIS laboratory at ETH Zurich by Federico Villani (System architecture, simulation, design and layout), based on requirements and the concept of handheld optoacoustic imaging by Xiang Liu and Prof. Daniel Razansky. 
 
-- Federico Villani: System architecture, simulation, design and layout
-- Xiang Liu: System conception, experimentation, testing, characterization, data analysis. 
+The PCB system is part of a wider effort, the paper **Laser diode-based large-scale compounding handheld volumetric optoacoustic tomography**, with following summarized contributions (for the full list of contributions, please refer to the paper): 
+- **Xiang Liu**:  Conceptualization, methodology, investigation, experimentation, software & data analysis, visualization, writing
+- **Federico Villani**: PCB system design, methodology, investigation, writing
+- **ISAAC ESTEBAN VARELA**: software & data analysis
+- **XUYANG CHANG** & **BAOYUAN ZHANG**: investigation, experimentation
+- **ANDREA COSSETTINI**: investigation, writing
+- **XOSE LUIS DEAN-BEN**: software & data analysis, writing
+- **LUCA BENINI** & **DANIEL RAZANSKY**:  Conceptualization, Project administration, Supervision, writing
 
-HELIOS-R was developed for the Laser diode-based large-scale compounding handheld volumetric optoacoustic tomography paper
-**TODO ADD citation structure and complete authors list**
+**TODO ADD citation**
 
 ## Contact and Support
 

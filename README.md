@@ -162,13 +162,15 @@ The HELIOS-R PCB System was developed by the IIS laboratory at ETH Zurich by Fed
 The PCB system is part of a wider effort, the paper **Laser diode-based large-scale compounding handheld volumetric optoacoustic tomography**, with following summarized contributions (for the full list of contributions, please refer to the paper): 
 - **Xiang Liu**:  Conceptualization, methodology, investigation, experimentation, software & data analysis, visualization, writing
 - **Federico Villani**: PCB system design, methodology, investigation, writing
-- **ISAAC ESTEBAN VARELA**: software & data analysis
-- **XUYANG CHANG** & **BAOYUAN ZHANG**: investigation, experimentation
-- **ANDREA COSSETTINI**: investigation, writing
-- **XOSE LUIS DEAN-BEN**: software & data analysis, writing
-- **LUCA BENINI** & **DANIEL RAZANSKY**:  Conceptualization, Project administration, Supervision, writing
+- **Isaac Esteban Varela**: Software & data analysis
+- **Xuyang Chang** & **Baoyuan Zhang**: Investigation, experimentation
+- **Andrea Cossettini**: Investigation, writing
+- **Xose Luis Dean-Ben**: Software & data analysis, writing  
+- **Luca Benini** & **Daniel Razansky**: Conceptualization, project administration, supervision, writing
 
 **TODO ADD citation**
+
+Pictures of the system by: Federico Villani, Sergei Vostrikov, Xiang Liu.
 
 ## Contact and Support
 

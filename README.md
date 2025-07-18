@@ -29,6 +29,7 @@ The HELIOS-T electronics comprise four main PCB modules designed for optoacousti
 4. **System Control** (`ld_system_control`): Interface PCB providing access to real-time monitoring of pulse duration, current consumption, and temperature
 
 ![alt text](docs/images/pulser_schematic-full.svg)
+
 ### Development & Testing
 
 1. **Pulser Test Board** (`ld_pulser_testboard`): Standalone testing platform for pulser validation
@@ -160,6 +161,7 @@ This project is released the Solderpad v0.51 open hardware license. See individu
 The HELIOS-R PCB System was developed by the IIS laboratory at ETH Zurich by Federico Villani (System architecture, simulation, design and layout), based on requirements and the concept of handheld optoacoustic imaging by Xiang Liu and Prof. Daniel Razansky. 
 
 The PCB system is part of a wider effort, the paper **Laser diode-based large-scale compounding handheld volumetric optoacoustic tomography**, with following summarized contributions (for the full list of contributions, please refer to the paper): 
+
 - **Xiang Liu**:  Conceptualization, methodology, investigation, experimentation, software & data analysis, visualization, writing
 - **Federico Villani**: PCB system design, methodology, investigation, writing
 - **Isaac Esteban Varela**: Software & data analysis
@@ -179,8 +181,6 @@ For technical questions or design collaboration inquiries:
 - Open an issue in this repository for technical discussions
 - Contact us for collaboration opportunities
 
-
 ## Limitation of Liability
-
 
 In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.

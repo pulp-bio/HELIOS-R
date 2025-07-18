@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ld_pulser_testboard.PcbDoc   17/07/2025  15:45:57
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ld_pulser_testboard.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             721       PTH        1250.03mm (49.21inch)
+T2      1.02mm (40mil)                                            Round             18        PTH        118.96mm (4.68inch)
+T3      1.1mm (43mil)           +0mm (0mil)/-0.25mm (10mil)       Round             3         PTH        5.08mm (0.20inch)
+T4      1.1mm (43mil)                                             Round             6         PTH        68.13mm (2.68inch)
+T5      1.5mm (59mil)                                             Round             4         PTH        44.07mm (1.74inch)
+T6      1.6mm (63mil)                                             Round             16        PTH        106.39mm (4.19inch)
+T7      3.3mm (130mil)                                            Round             4         PTH        143.00mm (5.63inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              772
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -244,10 +244,6 @@ ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Documentation\Manufacturing\Pick Place\Pick Place for LD_module_panel.csv
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Author
 Value=villanif

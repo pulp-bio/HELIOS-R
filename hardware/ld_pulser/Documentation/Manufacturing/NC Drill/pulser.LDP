@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\Design\Altium_designer\Laser_diodes\HELIOS-T\ld_pulser\Hardware\pulser.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pulser.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Int1(GND)_Blind_Vias|DrillFile=pulser.tx3|DrillLayers=gtl,g1
+LayersSetName=Int4(GND)_Bot_Blind_Vias|DrillFile=pulser.tx4|DrillLayers=g4,gbl

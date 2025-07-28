@@ -170,7 +170,24 @@ The PCB system is part of a wider effort, the paper **Laser diode-based large-sc
 - **Xose Luis Dean-Ben**: Software & data analysis, writing  
 - **Luca Benini** & **Daniel Razansky**: Conceptualization, project administration, supervision, writing
 
-**TODO ADD citation**
+```
+@article{liuHandheldEmbeddedLaserDiode,
+  title = {Handheld {{Embedded Laser-Diode Illumination Optoacoustic System}} for {{Real-Time 3D Angiography}} of {{Deep Tissues}}},
+  author = {Liu, Xiang and Villani, Federico and Esteban, Isaac and Chang, Xuyang and Zhang, Baoyuan and Cossettini, Andrea and {De{\'a}n-Ben}, Xos{\'e} Lu{\'i}s and Benini, Luca and Razansky, Daniel},
+  journal = {Laser \& Photonics Reviews},
+  volume = {n/a},
+  number = {n/a},
+  pages = {e01006},
+  issn = {1863-8899},
+  doi = {10.1002/lpor.202501006},
+  urldate = {2025-07-28},
+  abstract = {The clinical adoption of optoacoustic imaging is currently being impeded by the bulky design and high cost of traditional systems based on solid-state lasers. We introduce a cost-effective, high-performance Handheld Embedded Laser-diode Illumination Optoacoustic System (HELIOS) based on a spherical array probe incorporating a compact illumination source located in close proximity to the imaged object. High performance drivers have been designed to produce 1.8 mJ energy pulses at 915 nm wavelength, sufficient for rendering entire {$\approx$}1 cm3 image volumes with high spatial and temporal resolution. The fast imaging performance is further facilitated by high-speed acquisition electronics capable of simultaneous sampling of all 256 transducer channels, thus enabling volumetric imaging at up to 400 Hz frame rate corresponding to pulse repetition frequency of the laser diodes. HELIOS attains image quality and performance metrics on par with those achieved with solid state laser sources. We then demonstrate real-time volumetric angiography of human fingers and palm in a freehand mode, perform large-scale volumetric compounding of vascular structures from the time-lapse 3D data, and visualize vessel perfusion and pulsation with the system. The work represents a major leap toward the translation of optoacoustics into point-of-care diagnostics and enabling its dissemination in resource-limited settings.},
+  copyright = {{\copyright} 2025 The Author(s). Laser \& Photonics Reviews published by Wiley-VCH GmbH},
+  langid = {english},
+  keywords = {Compact,Handheld,Laser diode,Low cost,Nir wavelength,Optoacoustic Tomography,Photoacoustic,Vasculature}
+}
+
+```
 
 Pictures of the system by: Federico Villani, Sergei Vostrikov, Xiang Liu.
 
